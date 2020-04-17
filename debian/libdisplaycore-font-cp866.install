@@ -1,2 +1,2 @@
-CP866.cpp libraries/DisplayCore/CP866
-CP866.h libraries/DisplayCore/CP866
+src libraries/DisplayCore/CP866
+library.properties libraries/DisplayCore/CP866
