@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::CP866 
 
-![CP866](https://raw.githubusercontent.com/DisplayCore/CP866/master/Preview/CP866.png)
+![CP866](https://raw.githubusercontent.com/Cariad/CP866/master/Preview/CP866.png)
 
